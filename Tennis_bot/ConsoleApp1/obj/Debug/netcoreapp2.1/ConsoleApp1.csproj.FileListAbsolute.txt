@@ -1,0 +1,44 @@
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Wojtek\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Wojtek\Desktop\Discord Bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\Wojtek\Desktop\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\Wojtek\IT\Bots\Discord_bots\Tennis_bot\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
